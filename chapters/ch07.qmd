@@ -4,7 +4,7 @@
 _De opkomst van de cybereconomie_
 :::
 
-> Controle is waar het werkelijk om draait. Het Internet is zo wijdverspreid dat geen enkele overheid het makkelijk kan beheersen. Door een naadloze, wereldwijde, niet te reguleren economische zone te creëren die losstaat van nationale soevereiniteit, stelt het Internet het idee van een natiestaat ter discussie. -- John Perry Barlow
+> _"Controle is waar het werkelijk om draait. Het Internet is zo wijdverspreid dat geen enkele overheid het makkelijk kan beheersen. Door een naadloze, wereldwijde, niet te reguleren economische zone te creëren die losstaat van nationale soevereiniteit, stelt het Internet het idee van een natiestaat ter discussie." -- John Perry Barlow_
 
 De Informatiesnelweg is een van de bekendere metaforen uit de vroege dagen van het digitale tijdperk geworden. Het is opmerkelijk, niet alleen door de alomtegenwoordigheid, maar ook door het veel voorkomende misverstand dat het blootlegt over de cybereconomie. Een snelweg is immers een industriële versie van een voetpad, een netwerk voor het fysieke transport van mensen en goederen. De Informatiemaatschappij is niet zoals een snelweg, spoorlijn of pijpleiding. Het vervoert informatie niet van punt naar punt zoals de Trans-Canada Highway zware vrachtwagens van Alberta naar New Brunswick brengt. Wat de wereld de "Informatiesnelweg" noemt, is niet slechts een transportverbinding. Het is de bestemming zelf.
 
@@ -12,7 +12,7 @@ De cyberspace overstijgt plaatsgebondenheid. Het is niets minder dan het onmidde
 
 De cyberspace, net als het denkbeeldige rijk van de goden van Homerus, is een andere wereld dan de bekende aardse wereld van boerderij en fabriek. Toch zullen de gevolgen niet denkbeeldig, maar reëel zijn. In veel grotere mate dan velen nu begrijpen, zal het onmiddellijke delen van informatie als een oplosmiddel werken dat grote instellingen uiteen doet vallen. Het zal niet alleen de logica van geweld veranderen, zoals we al hebben besproken, maar zal de informatie- en transactiekosten, die bepalen hoe bedrijven zijn georganiseerd en hoe de economie functioneert, radicaal veranderen. We verwachten dat microprocessing de economische organisatie van de wereld zal veranderen.
 
-> Het is vandaag, in grotere mate dan ooit in de geschiedenis van de wereld, mogelijk voor een bedrijf om zich overal te vestigen, middelen van overal te gebruiken om een product te produceren dat overal verkocht kan worden. -- MILTON FRIEDMAN
+> _"Het is vandaag, in grotere mate dan ooit in de geschiedenis van de wereld, mogelijk voor een bedrijf om zich overal te vestigen, middelen van overal te gebruiken om een product te produceren dat overal verkocht kan worden." -- Milton Friedman_
 
 ## De tirannie van de plaats
 
@@ -44,7 +44,7 @@ Hoewel men zelden expliciet benoemt hoe belangrijk locatie is voor het uitoefene
 
 In 1995 staken dagelijks ongeveer een miljoen mensen ergens in de wereld een grens over, een opmerkelijke verandering vergeleken met vroeger. Vóór de twintigste eeuw was reizen zo zeldzaam dat grenzen vooral als randgebieden werden gezien en nauwelijks een belemmering vormden voor doorgang. Paspoorten bestonden nog niet. De opkomst van grote zeeboten, treinen en andere verbeterde vervoermiddelen leidde tot een spectaculaire toename van het aantal verplaatsingen. Tegelijkertijd werden deze verplaatsingen steeds strenger gereguleerd door staten, wier macht was toegenomen dankzij dezelfde verbeterde transport- en communicatiemiddelen die het reizen voor burgers goedkoper en eenvoudiger maakte. Films en, vooral, televisie speelden daarnaast een belangrijke rol in het verbreden van de horizonten en het stimuleren van reizen en immigratie. Desondanks bleven de fundamentele beginselen van de sociale en economische organisatie tot nu toe verankerd in de lokale context.
 
-> '...om te voorkomen dat we ons lef verliezen, waarvoor de geschiedenis zo meedogenloos straft. We moeten de moed hebben om alle technische extrapolaties tot hun logische conclusie te volgen.' - ARTHUR C. CLARKE
+> _"...om te voorkomen dat we ons lef verliezen, waarvoor de geschiedenis zo meedogenloos straft. We moeten de moed hebben om alle technische extrapolaties tot hun logische conclusie te volgen." - Arthur C. Clark_
 
 ## De fout van minimale verwachtingen
 
@@ -146,7 +146,7 @@ Om het voorbeeld van cybersurgery voort te zetten: de technologie van het Inform
 
 Dit leven-en-doodvoorbeeld illustreert enkele revolutionaire gevolgen van de bevrijding van economieën uit de tirannie van plaats. Sommigen zullen misschien aanvoeren dat de MRT-machine van General Electric niet bedoeld was voor gebruik op afstand. Misschien, maar dat mist het punt. Deze of soortgelijke apparatuur zal dat binnenkort wel zijn. Wanneer operaties beter kunnen worden uitgevoerd door chirurgen die naar een scherm kijken dan direct naar de patiënt, zal het minder uitmaken waar de chirurg en zijn scherm zich bevinden. Een toenemend aantal diensten zal worden heringericht om te profiteren van het feit dat informatietechnologie mensen overal ter wereld in staat stelt te handelen, zelfs in zulke delicate zaken als chirurgie. Bij activiteiten die minder precieze apparatuur vereisen en lagere faalkansen kennen, zal de cybereconomie nog sneller floreren.
 
-> Het financiële beleid van de verzorgingsstaat vereist dat er geen manier is voor vermogenden om zichzelf te beschermen. -- ALAN GREENSPAN
+> _"Het financiële beleid van de verzorgingsstaat vereist dat er geen manier is voor vermogenden om zichzelf te beschermen." -- Alan Greenspan_
 
 ## De devaluatie van dwang
 
@@ -176,7 +176,7 @@ Als de aannames van economen over winstmaximalisatie correct zijn, en wij gelove
 
 Een brede adoptie van public-key/private-key-encryptietechnologieën zal binnenkort veel economische activiteiten overal ter wereld mogelijk maken. Zoals James Bennet, technologie-redacteur van _Strategic Investment_, schreef:
 
-> "De handhaving van wetten, en met name belastingwetgeving, is sterk afhankelijk geworden van toezicht op communicatie en transacties. Zodra de volgende logische stappen zijn gezet, en offshorebanken communicatie aanbieden via sterke RSA-versleutelde e-mail met accountnummers afgeleid van public-key-systemen, zullen financiële transacties vrijwel onmogelijk te monitoren zijn, zowel in de bank als in communicatie. Zelfs als de belastingautoriteiten een infiltrant in de offshorebank zouden plaatsen of de bankgegevens zouden stelen, zouden zij de rekeninghouders niet kunnen identificeren."
+> _"De handhaving van wetten, en met name belastingwetgeving, is sterk afhankelijk geworden van toezicht op communicatie en transacties. Zodra de volgende logische stappen zijn gezet, en offshorebanken communicatie aanbieden via sterke RSA-versleutelde e-mail met accountnummers afgeleid van public-key-systemen, zullen financiële transacties vrijwel onmogelijk te monitoren zijn, zowel in de bank als in communicatie. Zelfs als de belastingautoriteiten een infiltrant in de offshorebank zouden plaatsen of de bankgegevens zouden stelen, zouden zij de rekeninghouders niet kunnen identificeren."_
 
 In een mate die nooit eerder mogelijk was, zullen individuen kunnen bepalen waar zij hun economische activiteiten onderbrengen en hoeveel inkomstenbelasting zij bereid zijn te betalen. Veel transacties in het Informatietijdperk hoeven helemaal niet binnen een territoriale soevereiniteit te worden ondergebracht. Degenen die dat wel doen, zullen steeds vaker terechtkomen in plaatsen zoals Bermuda, de Kaaimaneilanden, Uruguay of vergelijkbare jurisdicties die geen inkomstenbelasting of andere kostbare transactielasten opleggen.
 
@@ -192,7 +192,7 @@ Het kwam zelden in de geschiedenis voor dat overheden werkelijk door concurrenti
 
 Deze nieuwe economische dynamiek staat lijnrecht tegenover het verlangen van overheden uit het Industriële Tijdperk om monopolieprijzen voor hun beschermingsdiensten op te leggen. Maar, of ze het nou leuk vinden of niet, het oude systeem zal niet levensvatbaar zijn in de nieuwe competitieve omgeving van het Informatietijdperk. Elke overheid die steevast haar burgers zware belastingen oplegt, die ze bij concurrenten niet hoeven betalen, zal er enkel voor zorgen dat winst en rijkdom ergens anders naartoe migreren. Zo zal het onvermogen van volwassen verzorgingsstaten om de belastingen langdurig te verlagen, op den duur zichzelf corrigeren. Overheden die overmatig belasten, zorgen er simpelweg voor dat wonen binnen hun macht een financieel onhoudbare aangelegenheid wordt.
 
-> ... zoals de vorst door zijn voorrecht geld kan scheppen uit eender welke materie en vorm, en de standaard kan bepalen, kan hij eveneens de samenstelling en het ontwerp van het geld wijzigen, de waarde opdrijven of verlagen, of het geheel afschaffen en ongeldig verklaren. -- UIT EEN ENGELSE RECHTSBESLISSING, 1604
+> "... zoals de vorst door zijn voorrecht geld kan scheppen uit eender welke materie en vorm, en de standaard kan bepalen, kan hij eveneens de samenstelling en het ontwerp van het geld wijzigen, de waarde opdrijven of verlagen, of het geheel afschaffen en ongeldig verklaren." -- Uit een Engels vonnis, 1604_
 
 ## De dood van seigniorage
 
@@ -239,7 +239,7 @@ Tussen 1 januari 1949 en eind juni 1995, terwijl de beste nationale valuta bijna
 
 Nationale valuta die aan goud waren gekoppeld, behielden hun koopkracht ook zolang er geen militaire noodsituaties waren. De waarde van het Britse pond sterling steeg zelfs in de relatief vreedzame negentiende eeuw, ondanks dat het slechts zwak aan goud gekoppeld was. De nieuwe megapolitieke omstandigheden van het Informatietijdperk maken voor het eerst juist een sterke koppeling mogelijk, geen zwakke koppeling zoals de goudstandaard, door de enorm verbeterde informatie- en rekenmiddelen in handen van consumenten.
 
-> Het gevaar van het snelle verlies van hun hele bedrijf als ze niet aan de verwachtingen voldoen (en de zekerheid dat een overheidsorganisatie de kans zou misbruiken om grondstofprijzen te manipuleren!) zou een veel sterkere waarborg tegen een staatsmonopolie bieden dan welke ook maar bedacht zou kunnen worden. -- FRIEDRICH A. VON HAYEK
+> _"Het gevaar van het snelle verlies van hun hele bedrijf als ze niet aan de verwachtingen voldoen (en de zekerheid dat een overheidsorganisatie de kans zou misbruiken om grondstofprijzen te manipuleren!) zou een veel sterkere waarborg tegen een staatsmonopolie bieden dan welke ook maar bedacht zou kunnen worden." -- Friedrich A. Von Hayek_
 
 ### Privatisering van geld
 
