@@ -64,6 +64,7 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
+    # - chapters/voorwoord.qmd
     - chapters/ch01.qmd
     - chapters/ch02.qmd
     - chapters/ch03.qmd
