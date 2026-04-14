@@ -64,7 +64,7 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
-    # - chapters/voorwoord.qmd
+    - chapters/voorwoord.qmd
     - chapters/ch01.qmd
     - chapters/ch02.qmd
     - chapters/ch03.qmd
@@ -76,7 +76,7 @@ book:
     - chapters/ch09.qmd
     - chapters/ch10.qmd
     - chapters/ch11.qmd
-    # - chapters/nawoord.qmd
+    - chapters/nawoord.qmd
 
 format:
   html:
@@ -104,7 +104,7 @@ format:
     classoption: smalldemyvopaper,10pt,twoside,onecolumn,openright,extrafontsizes,hidelinks
     papersize: a5
     toc-depth: 1
-    toc-title: Contents
+    toc-title: Inhoudsopgave
     keep-tex: true
     colorlinks: false
     include-in-header:
@@ -116,7 +116,7 @@ format:
     creator: Konsensus Network
     toc: true
     toc-depth: 1
-    toc-title: Contents
+    toc-title: Inhoudsopgave
     lang: "nl-NL"
     css: epub.css
     number-depth: 2
