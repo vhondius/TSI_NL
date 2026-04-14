@@ -16,7 +16,7 @@
 \newcommand{\yearoriginal}{1999}
 \newcommand{\subtitletranslation}{De overgang naar het informatietijdperk}
 \newcommand{\yeartranslation}{2025}
-\newcommand{\stringtranslation}{Vertaling: }
+\newcommand{\stringtranslation}{Vertaling}
 \newcommand{\stringlicense}{XXX}
 \newcommand{\stringpublisher}{Konsensus Network}
 \newcommand{\ISBNHC}{XXX}
@@ -185,7 +185,7 @@
 \setlength{\cftsectionindent}{5em}
 \setlength{\cftbeforechapterskip}{0.8em}
 \setsecnumdepth{chapter}
-\setcounter{tocdepth}{0}
+\setcounter{tocdepth}{1}
 
 
 % Redefine footnote presentation
@@ -279,4 +279,9 @@
   \pagestyle{mystyle}
 }
 \makeatother
+
+% Remove empty pages between TOC and first content
+\renewcommand{\cleardoublepage}{\clearpage}
+\renewcommand{\clearpage}{\thispagestyle{empty}\newpage}
+
 % END PREAMBLE
