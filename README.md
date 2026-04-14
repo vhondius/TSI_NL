@@ -3,9 +3,11 @@
 - Vertaling: Konsensus Network
 - Redactie: Vincent Hondius (@SaltNPepperCrypto)
 
-Proofread up to Chapter 6
+Proofread, Corrected, Footnotes fixed, Quotes fixed
 
 ## To do:
 
-- Footnotes (compare with /original and add them back in /chapters/*.qmd)
-- Foreword by Boris?
+- Finalize typesetting
+- ISBN
+- Add Renik Van den Eynde (@Prufrock) as proofreader
+- Final render
